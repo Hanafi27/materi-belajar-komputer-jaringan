@@ -1,0 +1,4 @@
+Materi dasar komputer jaringan
+ - Fundamental Networking
+ - IP Address
+ - Linux
