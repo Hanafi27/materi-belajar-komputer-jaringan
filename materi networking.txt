@@ -8,3 +8,6 @@ Materi dasar komputer jaringan
  - Linux
   - Parrot
   - Debian
+ - Praktek Routing
+  - Cisco
+  - Mikrotik
