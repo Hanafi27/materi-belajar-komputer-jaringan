@@ -1,4 +1,10 @@
 Materi dasar komputer jaringan
  - Fundamental Networking
+  - osi layer
+  - Darpa
+  - tcp ip
  - IP Address
+  - Willcard
  - Linux
+  - Parrot
+  - Debian
