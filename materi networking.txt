@@ -11,3 +11,6 @@ Materi dasar komputer jaringan
  - Praktek Routing
   - Cisco
   - Mikrotik
+ - Micorosoft Office
+ - Correl Draw
+ - Potoshop
