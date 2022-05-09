@@ -11,3 +11,5 @@ Materi dasar komputer jaringan
  - Praktek Routing
   - Cisco
   - Mikrotik
+ - Pengenalan Hardware 
+ - Pengenalan Software
